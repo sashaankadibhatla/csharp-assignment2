@@ -4,11 +4,9 @@
    
 namespace csharp_assignment2
 {
-     class MyArray
+    public class MyArray
     {
-        public  static void  Call(){
-            Console.WriteLine("Enter the size of array");
-            int s=int.Parse(Console.ReadLine());
+        public int  Call(int s){
             int []array=new int[s];
             int i;
             for(i=0;i<s;i++)
@@ -20,34 +18,44 @@ namespace csharp_assignment2
                   Console.WriteLine("array crosses 10");
                  }
             }
+            return array.Length;
             }
             
     }
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
-            MyArray.Call();
+            Console.WriteLine("Enter the size of array");
+            int s=int.Parse(Console.ReadLine());
+            MyArray sec=new MyArray();
+            int l=sec.Call(s);
+           // Console.WriteLine(l);
+
             Program p= new Program();
-            p.Fibonacci();
-        }
-        public void Fibonacci(){
             Console.WriteLine("Enter the number of terms in fibonacci series");
             string input=Console.ReadLine();
             int n=int.Parse(input);
-            int i,a,b,c;
+            int value=p.Fibonacci(n);
+           // Console.WriteLine(value);
+        }
+        public int Fibonacci(int n){
+            int i,a,b,c,sum;
             Console.WriteLine("Fibonacci Series is :");
             a=0;
             b=1;
             c=0;
+            sum=1;
             Console.Write(" {0} {1} ",a,b);
-            for(i=2;i<=n;i++)
+            for(i=2;i<=n-1;i++)
             {
                 c=a+b;
+                sum=sum+c;
                 Console.Write(" {0} ",c);
                 a=b;
                 b=c;
             }
+            return sum;
         }    
     
     }

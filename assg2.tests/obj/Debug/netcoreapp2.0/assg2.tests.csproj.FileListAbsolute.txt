@@ -1,0 +1,15 @@
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\assg2.tests.deps.json
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\assg2.tests.runtimeconfig.json
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\assg2.tests.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\assg2.tests.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\assg2.tests.pdb
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\csharp_assignment2.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\bin\Debug\netcoreapp2.0\csharp_assignment2.pdb
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\obj\Debug\netcoreapp2.0\assg2.tests.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\obj\Debug\netcoreapp2.0\assg2.tests.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\obj\Debug\netcoreapp2.0\assg2.tests.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\obj\Debug\netcoreapp2.0\assg2.tests.dll
+c:\Users\Administrator\Desktop\csharp_assignment2\assg2.tests\obj\Debug\netcoreapp2.0\assg2.tests.pdb
